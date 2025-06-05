@@ -1,4 +1,4 @@
-# Agnite — IP Protection for Creators, Made Beautiful
+# Agnite - IP Protection for Creators, Made Beautiful
 
 **Agnite** is a web-based front-end project that helps creators register their intellectual property (IP) with ease, using an intuitive, aesthetic interface.
 
@@ -26,7 +26,7 @@ We imagined a space where design meets legal power — a smooth, beautiful inter
 
 ---
 
-## 🔧 Tech Stack
+## Tech Stack
 
 | Tech       | Why We Used It                                  |
 |------------|-------------------------------------------------|
